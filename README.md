@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi. my name is Sulthan and I'm a Computer Engineering Student that deeply passionate about the fields of AI, Machine Learning, and Data Analysis. My enthusiasm for technology drives me to continuously seek out opportunities for growth and learning, whether through coursework, projects, or active participation in relevant organizations and labs.
+Hi. my name is Sulthan and I'm a Computer Engineering Student that deeply passionate about the fields of AI, Machine Learning, and Data Analysis. My enthusiasm for technology drives me to continuously seek out opportunities for growth and learning, whether through coursework, projects, or participation in relevant activities.
 
 ## 📊 Github Stats 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sulthannauval&theme=dark&hide_border=false)
