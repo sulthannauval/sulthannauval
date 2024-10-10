@@ -12,3 +12,6 @@
 Hi. my name is Sulthan and I'm a Computer Engineering Student that deeply passionate about the fields of AI, Machine Learning, and Data Analysis. My enthusiasm for technology drives me to continuously seek out opportunities for growth and learning, whether through coursework, projects, or active participation in relevant organizations and labs.
 
 <br />
+
+## 🛠️ Language and Tools
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthannauval&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
