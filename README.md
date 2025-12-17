@@ -15,6 +15,3 @@ Thriving in collaborative environments, I excel in contributing through both my 
 
 ## 🛠️ Language and Tools
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthannauval&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🎧 Currently Listening
-![](https://spotify-recently-played-readme.vercel.app/api?user=n28qrj4ikqa1nf01n2fih21kr&count=3)
