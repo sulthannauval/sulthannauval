@@ -65,8 +65,10 @@ Also: Tokio, Axum, SurrealDB, Vercel AI SDK, RAG pipelines, Ollama.
 ## Uptime
 
 <p>
+  <!-- Hidden while the public github-readme-stats server is down.
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sulthannauval&show_icons=true&hide=stars,issues&show=reviews&include_all_commits=true&hide_rank=true&card_width=420&theme=tokyonight&bg_color=00000000&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sulthannauval&theme=tokyonight&background=00000000&hide_border=true&border_radius=10&card_width=420&card_height=170" alt="GitHub streak" />
+  -->
+  <img src="https://streak-stats.demolab.com?user=sulthannauval&theme=tokyonight&background=00000000&hide_border=true&border_radius=10&card_width=420&card_height=170" alt="GitHub streak" />
 </p>
 
 ## Ping me
